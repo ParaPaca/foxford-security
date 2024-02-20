@@ -262,23 +262,23 @@ main {
 
 .intro__item-1 {
   background-color: var(--yellow);
-  background-image: url(/images/home-intro-item-1-lg.jpg);
+  background-image: url(./images/home-intro-item-1-lg.jpg);
   background-position: 408px;
 }
 
 .intro__item-2 {
   background-color: var(--pale-pink);
-  background-image: url(/images/home-intro-item-2-lg.svg);
+  background-image: url(./images/home-intro-item-2-lg.svg);
 }
 
 .intro__item-3 {
   background-color: var(--pale-purple);
-  background-image: url(/images/home-intro-item-3-lg.svg);
+  background-image: url(./images/home-intro-item-3-lg.svg);
 }
 
 .intro__item-4 {
   background-color: var(--pale-blue);
-  background-image: url(/images/home-intro-item-4-lg.png);
+  background-image: url(./images/home-intro-item-4-lg.png);
   background-position: 454px;
 }
 
@@ -296,7 +296,7 @@ main {
 }
 
 .section--program {
-  background-image: url(/images/home-program-pattern.svg);
+  background-image: url(./images/home-program-pattern.svg);
   background-position: 50% 100%;
   background-repeat: repeat-x;
   background-size: auto 40px;
@@ -504,47 +504,47 @@ main {
 }
 
 .button-sharing--vk {
-  background-image: url(/images/home-sharing-buttons-vk.svg);
+  background-image: url(./images/home-sharing-buttons-vk.svg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 32px;
 }
 
 .button-sharing--vk:hover {
-  background-image: url(/images/home-sharing-buttons-vk-hover.svg);
+  background-image: url(./images/home-sharing-buttons-vk-hover.svg);
 }
 
 .button-sharing--tg {
-  background-image: url(/images/home-sharing-buttons-tg.svg);
+  background-image: url(./images/home-sharing-buttons-tg.svg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 32px;
 }
 
 .button-sharing--tg:hover {
-  background-image: url(/images/home-sharing-buttons-tg-hover.svg);
+  background-image: url(./images/home-sharing-buttons-tg-hover.svg);
 }
 
 .button-sharing--wa {
-  background-image: url(/images/home-sharing-buttons-wa.svg);
+  background-image: url(./images/home-sharing-buttons-wa.svg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 32px;
 }
 
 .button-sharing--wa:hover {
-  background-image: url(/images/home-sharing-buttons-wa-hover.svg);
+  background-image: url(./images/home-sharing-buttons-wa-hover.svg);
 }
 
 .button-sharing--copy {
-  background-image: url(/images/home-sharing-buttons-copy.svg);
+  background-image: url(./images/home-sharing-buttons-copy.svg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 32px;
 }
 
 .button-sharing--copy:hover {
-  background-image: url(/images/home-sharing-buttons-copy-hover.svg);
+  background-image: url(./images/home-sharing-buttons-copy-hover.svg);
 }
 
 .sharing__p--small {
@@ -824,18 +824,18 @@ main {
     padding-bottom: 200px;
   }
   .intro__item-1 {
-    background-image: url(/images/home-intro-item-1-sm.jpg);
+    background-image: url(./images/home-intro-item-1-sm.jpg);
   }
   .intro__item-2 {
-    background-image: url(/images/home-intro-item-2-sm.svg);
+    background-image: url(./images/home-intro-item-2-sm.svg);
     padding-bottom: 190px;
   }
   .intro__item-3 {
-    background-image: url(/images/home-intro-item-3-sm.svg);
+    background-image: url(./images/home-intro-item-3-sm.svg);
     padding-bottom: 166px;
   }
   .intro__item-4 {
-    background-image: url(/images/home-intro-item-4-sm.jpg);
+    background-image: url(./images/home-intro-item-4-sm.jpg);
   }
   .section--program {
     padding-bottom: 96px;
